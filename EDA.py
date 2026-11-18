@@ -1,3 +1,5 @@
+from typing import Tuple
+
 import matplotlib.pyplot as plt
 import pandas as pd
 
@@ -17,7 +19,7 @@ def get_data(dataset) -> pd.DataFrame:
     return data
 
 
-def get_size(data: pd.DataFrame) -> (int, int):
+def get_size(data: pd.DataFrame) -> Tuple[int, int]:
     return data.shape
 
 
