@@ -1,0 +1,11 @@
+Age,Study_Hours,AI_Usage_Minutes,Major,Study_Method
+19.0,2.5,30.0,Engineering,Group
+22.0,4.0,75.0,Biology,Independent
+,3.0,45.0,History,Group
+28.0,,90.0,,Tutoring
+35.0,5.5,,Engineering,Independent
+41.0,1.5,25.0,Business,
+24.0,6.0,120.0,Computer Science,Group
+,2.0,60.0,Biology,Tutoring
+31.0,,80.0,,Independent
+27.0,4.5,,History,Group

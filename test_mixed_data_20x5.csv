@@ -1,0 +1,21 @@
+Student_ID,Age,Weekly_Study_Hours,Major,Study_Preference
+101,18,8,Engineering,Group
+102,19,12,Biology,Independent
+103,20,15,Business,Group
+104,21,6,History,Tutoring
+105,22,20,Computer Science,Independent
+106,23,10,Engineering,Group
+107,24,18,Psychology,Tutoring
+108,25,14,Biology,Independent
+109,19,9,History,Group
+110,20,22,Business,Tutoring
+111,21,16,Computer Science,Independent
+112,22,11,Engineering,Group
+113,23,25,Psychology,Independent
+114,24,7,Biology,Tutoring
+115,25,13,History,Group
+116,18,19,Business,Independent
+117,20,5,Engineering,Tutoring
+118,22,17,Computer Science,Group
+119,24,21,Psychology,Independent
+120,26,12,Biology,Tutoring
